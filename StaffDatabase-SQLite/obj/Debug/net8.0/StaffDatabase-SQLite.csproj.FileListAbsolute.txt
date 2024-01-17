@@ -1,0 +1,15 @@
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\bin\Debug\net8.0\StaffDatabase-SQLite.deps.json
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\bin\Debug\net8.0\StaffDatabase-SQLite.runtimeconfig.json
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\bin\Debug\net8.0\StaffDatabase-SQLite.dll
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\bin\Debug\net8.0\StaffDatabase-SQLite.pdb
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.csproj.AssemblyReference.cache
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.AssemblyInfoInputs.cache
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.AssemblyInfo.cs
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.csproj.CoreCompileInputs.cache
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.sourcelink.json
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.dll
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\refint\StaffDatabase-SQLite.dll
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.pdb
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\StaffDatabase-SQLite.genruntimeconfig.cache
+C:\Users\johnd\workspace\test_Xamarian\StaffDatabase-SQLite\obj\Debug\net8.0\ref\StaffDatabase-SQLite.dll

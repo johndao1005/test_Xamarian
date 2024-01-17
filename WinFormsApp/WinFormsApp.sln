@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp", "WinFormsApp.csproj", "{C6E906DB-A273-4723-9965-5190FA716B75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaffDatabase-SQLite", "..\StaffDatabase-SQLite\StaffDatabase-SQLite.csproj", "{519CBB19-FCB1-4942-A072-798F6A66735C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E906DB-A273-4723-9965-5190FA716B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E906DB-A273-4723-9965-5190FA716B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E906DB-A273-4723-9965-5190FA716B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E906DB-A273-4723-9965-5190FA716B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519CBB19-FCB1-4942-A072-798F6A66735C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519CBB19-FCB1-4942-A072-798F6A66735C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519CBB19-FCB1-4942-A072-798F6A66735C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519CBB19-FCB1-4942-A072-798F6A66735C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64712E9-2AE9-48E3-BF25-B613539FEB51}
+	EndGlobalSection
+EndGlobal
