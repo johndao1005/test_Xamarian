@@ -1,5 +1,9 @@
-
+using WinFormsApp.Models;
+using WinFormsApp.Views;
+using WinFormsApp.Presenter;
+using WinFormsApp.Repository;
 using StaffDatabase_SQLite;
+using System.Configuration;
 
 namespace WinFormsApp
 {
@@ -11,11 +15,11 @@ namespace WinFormsApp
         [STAThread]
         static void Main()
         {
-            DatabaseHelper.InitalizeDatabase();
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            string sqlConnectionString = "Data Source=TOASTER2\\FINANCIALDB;Initial Catalog=StaffContacts;Integrated Security=True;TrustServerCertificate=True";
+            IStaffView view = new Form1();
+            IStaffRepository repository = new StaffRepository(sqlConnectionString);
+            new StaffPresenter(repository,view);
+            Application.Run((Form)view);
         }
     }
 }

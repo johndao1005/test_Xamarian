@@ -25,8 +25,9 @@ namespace WinFormsApp.Models
         public int StaffID
         {
             get { return _staffID; }
+            set { _staffID = value; }
         }
-        public int? ManageID
+        public int? ManagerID
         {
             get { return _managerID; }
             set { _managerID = value; }

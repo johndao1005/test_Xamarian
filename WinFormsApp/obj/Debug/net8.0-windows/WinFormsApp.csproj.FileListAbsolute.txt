@@ -33,3 +33,4 @@ C:\Users\johnd\workspace\test_Xamarian\WinFormsApp\bin\Debug\net8.0-windows\Staf
 C:\Users\johnd\workspace\test_Xamarian\WinFormsApp\bin\Debug\net8.0-windows\StaffDatabase-SQLite.pdb
 C:\Users\johnd\workspace\test_Xamarian\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.AssemblyReference.cache
 C:\Users\johnd\workspace\test_Xamarian\WinFormsApp\obj\Debug\net8.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\johnd\workspace\test_Xamarian\WinFormsApp\bin\Debug\net8.0-windows\WinFormsApp.dll.config

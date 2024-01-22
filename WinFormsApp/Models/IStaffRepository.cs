@@ -12,7 +12,7 @@ namespace WinFormsApp.Models
         void Update(StaffModel staff);
         void Delete(StaffModel staff);
         IEnumerable<StaffModel> GetAll();
-        IEnumerable<StaffModel> GetByID(int staffID);
+        IEnumerable<StaffModel> GetByID(string staffID);
 
     }
 }

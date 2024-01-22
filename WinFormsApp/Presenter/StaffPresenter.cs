@@ -71,13 +71,13 @@ namespace WinFormsApp.Presenter
             bool emptyValue = string.IsNullOrEmpty(this._staffView.SearchValue);
             if(emptyValue == false)
             {
-                staffList = _staffRepository.GetByID(1);
+                staffList = _staffRepository.GetByID("");
             }
             else
             {
                 staffList = _staffRepository.GetAll();
             }
-            _bindingSource.DataSource = staffList;1
+            _bindingSource.DataSource = staffList;
         }
     }
 }

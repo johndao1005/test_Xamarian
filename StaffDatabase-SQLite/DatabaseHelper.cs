@@ -5,8 +5,8 @@ namespace StaffDatabase_SQLite
     public class DatabaseHelper
     {
         private static string databaseDirectory = @"..\..\..\..\StaffDatabase-SQLite\database\staffDB.db";
-        private static string connectionString = @"Data Source={databaseDirectory};Version=3";
-
+        public static string connectionString = @"Data Source={databaseDirectory};";
+       
         public static void InitalizeDatabase()
         {
             if (!File.Exists(databaseDirectory))
